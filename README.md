@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
