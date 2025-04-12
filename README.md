@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
 | ------- |
