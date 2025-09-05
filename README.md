@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0009-palindrome-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
