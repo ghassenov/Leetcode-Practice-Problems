@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [0932-monotonic-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
