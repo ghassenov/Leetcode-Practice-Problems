@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/3379-score-of-a-string) |
 ## Hash Table
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
