@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
