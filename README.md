@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0932-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 ## Union Find
 |  |
 | ------- |
@@ -127,12 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
