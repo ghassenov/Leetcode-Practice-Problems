@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0932-monotonic-array) |
@@ -266,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
