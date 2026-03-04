@@ -268,6 +268,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
