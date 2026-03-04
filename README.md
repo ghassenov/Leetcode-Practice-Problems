@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0069-sqrtx) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
