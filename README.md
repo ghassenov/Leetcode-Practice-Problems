@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
 | ------- |
