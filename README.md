@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2058-concatenation-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2727-number-of-senior-citizens](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0658-find-k-closest-elements) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
