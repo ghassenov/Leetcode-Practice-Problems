@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/3379-score-of-a-string) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
 | ------- |
