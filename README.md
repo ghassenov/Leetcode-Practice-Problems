@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0229-majority-element-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
