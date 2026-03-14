@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2727-number-of-senior-citizens](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1768-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
