@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2058-concatenation-of-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
