@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0658-find-k-closest-elements) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
