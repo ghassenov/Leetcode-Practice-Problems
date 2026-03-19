@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0795-k-th-symbol-in-grammar) |
+| [1236-n-th-tribonacci-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -344,4 +346,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
