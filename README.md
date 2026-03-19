@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
