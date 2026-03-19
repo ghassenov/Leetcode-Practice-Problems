@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0229-majority-element-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1236-n-th-tribonacci-number) |
