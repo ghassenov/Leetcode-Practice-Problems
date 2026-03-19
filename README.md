@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0795-k-th-symbol-in-grammar) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
