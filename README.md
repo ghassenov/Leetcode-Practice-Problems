@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
