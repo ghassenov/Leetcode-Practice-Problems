@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0695-max-area-of-island) |
 ## Stack
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
 ## String Matching
 |  |
