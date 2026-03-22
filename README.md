@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1236-n-th-tribonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
