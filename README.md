@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0817-design-hashmap) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0990-verifying-an-alien-dictionary) |
 ## Union Find
 |  |
 | ------- |
