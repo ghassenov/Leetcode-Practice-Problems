@@ -4,15 +4,15 @@ public:
         int n = s.size();
         int m = t.size();
 
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-
         if(n != m) return false;
-        for(int i=0;i<n;i++){
-            if(t[i] != s[i]) return false;
+        int count[26] = {0};
+        for(auto x: s){
+            count[x-'a']++;
+        }
+        for(auto x:t){
+            if(count[x-'a'] == 0)return false;
+            else count[x-'a']--;
         }
         return true;
-
-
     }
 };
