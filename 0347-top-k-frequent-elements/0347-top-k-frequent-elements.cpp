@@ -6,18 +6,22 @@ public:
             mp[x]++;
         }
 
-        vector<pair<int,int>> arr;
-        for(auto x: mp){
-            arr.push_back({x.second,x.first});
-        }
+        //min-heap definition
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> heap;
 
-        sort(arr.rbegin(),arr.rend());
+        for(auto x:mp){
+            heap.push({x.second,x.first});
+            if(heap.size()> k){
+                heap.pop();
+            }
+        }
 
         vector<int> res;
         for(int i=0;i<k;i++){
-            res.push_back(arr[i].second);
+            res.push_back(heap.top().second);
+            heap.pop();
         }
-
         return res;
+
     }
 };
