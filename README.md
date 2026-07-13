@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0392-is-subsequence) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0795-k-th-symbol-in-grammar) |
