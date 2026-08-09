@@ -396,7 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1039-find-the-town-judge) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0169-majority-element) |
