@@ -3,20 +3,18 @@ public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         int ans = 0;
-
+        if(n == 1) return 0;
         int l = 0;
         int r = 1;
         while(r<n){
             if(prices[l] > prices[r]){
                 l = r;
-                r++;
             }
             else{
-                ans = max(ans,prices[r] - prices[l]);
-                r++;
+                ans = max(ans,prices[r]-prices[l]);
             }
+            r++;
         }
         return ans;
-
     }
 };
