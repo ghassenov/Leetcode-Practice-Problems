@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -20,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0015-3sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
