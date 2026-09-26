@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
