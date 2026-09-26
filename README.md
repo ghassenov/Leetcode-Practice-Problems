@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0056-merge-intervals) |
@@ -74,5 +75,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->

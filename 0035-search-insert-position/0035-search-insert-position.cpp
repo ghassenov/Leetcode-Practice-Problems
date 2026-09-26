@@ -1,28 +1,24 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
+        // we can implement BS on largest value <= target
+        // if that value == target we return its index
+        // else we return its index +1
         int n = nums.size();
-        int k = n;
-        int a = 0;
-        int b = n - 1;
-
-        while(a <= b){
-            int m = (a+b)/2;
-            if(nums[m]==target){
-                return m;
+        int l = 0;
+        int r = n-1;
+        int ans = -1;
+        while(l <= r){
+            int mid = l + (r-l)/2;
+            if(nums[mid] == target){
+                return mid;
             }
-            else if(nums[m] > target){
-                // target may exist in [a..m-1]
-                k = m;
-                b = m-1;
+            else if(nums[mid] < target){
+                ans = mid;
+                l = mid+1;
             }
-            else{
-                // target may exist in [m+1..b]
-                a = m+1;
-            }
+            else r = mid-1;
         }
-        return k;
-        
-
+        return ans+1;
     }
 };
