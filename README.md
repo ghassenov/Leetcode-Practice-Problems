@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
