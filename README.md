@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -78,5 +79,6 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
