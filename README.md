@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -89,4 +90,5 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0792-binary-search) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
