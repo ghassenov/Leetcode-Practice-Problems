@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
