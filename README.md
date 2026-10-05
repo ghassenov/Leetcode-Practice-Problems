@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
