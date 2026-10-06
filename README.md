@@ -55,6 +55,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -84,6 +85,7 @@
 | [0018-4sum](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
