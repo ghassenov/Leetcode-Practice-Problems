@@ -1,22 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int> mp;
         int n = s.length();
         int m = t.length();
-        if(n != m) return false;
 
-        for(auto x:s){
-            mp[x]++;
+        if(n != m) return false;
+        vector<int> count(26,0);
+
+        for(int i = 0;i<n;i++){
+            count[s[i]-'a']++;
+            count[t[i]-'a']--;
         }
-        for(auto y:t){
-            if(mp.find(y) == mp.end())return false;
-            else if(mp[y] == 0)return false;
-            else mp[y]--;
+
+        for(auto x:count){
+            if(x != 0) return false;
         }
         return true;
-        
-
-
     }
 };
