@@ -57,6 +57,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -87,6 +88,7 @@
 | [0056-merge-intervals](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -141,4 +144,16 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
