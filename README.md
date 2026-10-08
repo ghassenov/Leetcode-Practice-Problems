@@ -53,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
@@ -74,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -116,6 +118,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0205-isomorphic-strings) |
