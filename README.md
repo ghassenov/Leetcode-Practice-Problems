@@ -77,6 +77,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ghassenov/Leetcode-Practice-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
